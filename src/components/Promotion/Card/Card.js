@@ -1,7 +1,7 @@
 import React from 'react';
 import './Card.css'; 
 
-const PromotionCard = ({ promotion}) => (
+const PromotionCard = ({ promotion }) => (
     <div className="promotion-card">
         <img 
             src={promotion.imageUrl} 

@@ -1,6 +1,6 @@
 {
     "scripts": {
-    "start": "json-server --watch db.json --port 5005"
+    "start": "json-server --watch db.json --port 5005 --delay=1000"
     },
 
     "dependencies": {

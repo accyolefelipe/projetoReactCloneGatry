@@ -6,8 +6,8 @@ const PagesPromotionSearch = () => {
   return (
       <UIContainer >
         <PromotionSearch />
-      </UIContainer>)
-    
-}
+      </UIContainer>
+    );
+};
 
 export default PagesPromotionSearch;
